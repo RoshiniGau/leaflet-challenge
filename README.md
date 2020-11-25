@@ -1,1 +1,3 @@
 # leaflet-challenge
+
+In this project created a basic visualization of earthquake dataset . Plotted all of the earthquakes from dataset based on longitude and latitude . Markers reflect the magnitude of the earthquake by their size and and depth of the earth quake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color. Created legend to provide context . Please see the images folder for screenshots or download the the file and add API_KEY in the config file .
